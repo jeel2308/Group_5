@@ -37,7 +37,7 @@ Now Setup IFTTT applet using following settings.
 
 You can do same for unlocking the door.
 
-Download src folder from our gitHub repository.
+Download app folder from our gitHub repository.
 Now replace ```link + AIO key``` with your FETCH API link of feed on line 23rd of the "App.js" file.
 Now compile and install it on your phone.
 
