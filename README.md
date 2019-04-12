@@ -33,6 +33,8 @@ Now Upload this Code on NodeMCU using Arduino IDE. If everything will be fine,th
 
 Now Setup IFTTT applet using following settings.
 
+<img src="screenshot.png" width="300" />
+
 You can do same for unlocking the door.
 
 
