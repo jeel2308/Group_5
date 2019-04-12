@@ -16,7 +16,7 @@ In this project,we have developed smart door lock, which allows to lock/unlock d
 
 ### Installing
 
-DownLoad our source code from here [Link]().
+DownLoad our source code from [here](code.ino).
 
 Replace following with your Wi-Fi name and password
 ```
